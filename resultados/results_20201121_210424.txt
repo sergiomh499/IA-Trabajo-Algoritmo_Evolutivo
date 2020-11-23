@@ -1,0 +1,263 @@
+Sat Nov 21 21:04:24 CET 2020
+Opening instancias/MANN_a9.clq.txt (45 nodes, 918 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 29
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 45
+   Pool Size         : 100
+   Number of Trials  : 100000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : steady_state (Gap = 0.5)
+   Selection   : rank_biased (Bias = 1.8)
+   Crossover   : simple (Rate = 0.025)
+   Mutation    : simple_invert (Rate = 1)
+   Replacement : weakest
+
+Reports
+   Type     : Short
+   Interval : 10000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0     0.45  0.47381    0.464  2.41E-05  0.00491  46.3661  0.47381
+    1  0.454545  0.47381    0.464   2.1E-05  0.00459  46.3953  0.47381
+10000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+20000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+30000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+40000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+50000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+60000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+70000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+80000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+90000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+100000  0.655556  0.655556    0.656         0        0  65.5556  0.655556
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 1 0 0 1 1 1 0 0 0 1 1 1 0 1 
+      0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 1 0 1  (0.655556)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.655556)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 29
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 4
+   Pool Size         : 100
+   Number of Trials  : 100000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : steady_state (Gap = 0.5)
+   Selection   : rank_biased (Bias = 1.8)
+   Crossover   : simple (Rate = 0.025)
+   Mutation    : simple_invert (Rate = 1)
+   Replacement : weakest
+
+Reports
+   Type     : Short
+   Interval : 10000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+    1        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+10000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+20000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+30000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+40000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+50000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+60000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+70000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+80000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+90000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+100000        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
+
+The specified number of iterations has been reached.
+
+Best: 1 1 1 0  (0.875)
+
+
+Best chrom:  1.0000  1.0000  1.0000  0.0000     (fitness: 0.875)
+
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 29
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 6
+   Pool Size         : 100
+   Number of Trials  : 100000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : steady_state (Gap = 0.5)
+   Selection   : rank_biased (Bias = 1.8)
+   Crossover   : simple (Rate = 0.025)
+   Mutation    : simple_invert (Rate = 1)
+   Replacement : weakest
+
+Reports
+   Type     : Short
+   Interval : 10000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+    1        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+10000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+20000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+30000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+40000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+50000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+60000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+70000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+80000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+90000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+100000        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
+
+The specified number of iterations has been reached.
+
+Best: 1 0 1 1 0 1  (0.833333)
+
+
+Best chrom:  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 29
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 8
+   Pool Size         : 100
+   Number of Trials  : 100000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : steady_state (Gap = 0.5)
+   Selection   : rank_biased (Bias = 1.8)
+   Crossover   : simple (Rate = 0.025)
+   Mutation    : simple_invert (Rate = 1)
+   Replacement : weakest
+
+Reports
+   Type     : Short
+   Interval : 10000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0        0   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+    1  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+10000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+20000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+30000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+40000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+50000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+60000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+70000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+80000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+90000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+100000  0.166667   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 1 1 0 1 1 1  (0.8125)
+
+
+Best chrom:  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  1.0000     (fitness: 0.8125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 29
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 100000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : steady_state (Gap = 0.5)
+   Selection   : rank_biased (Bias = 1.8)
+   Crossover   : simple (Rate = 0.025)
+   Mutation    : simple_invert (Rate = 1)
+   Replacement : weakest
+
+Reports
+   Type     : Short
+   Interval : 10000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.445813  0.458995    0.452  8.18E-06  0.00286  45.2216  0.458995
+    1  0.446524  0.458995    0.452  7.57E-06  0.00275  45.2402  0.458995
+10000  0.640625  0.640625    0.641         0        0  64.0625  0.640625
+20000  0.640625  0.640625    0.641         0        0  64.0625  0.640625
+30000  0.640625  0.640625    0.641         0        0  64.0625  0.640625
+40000  0.640625  0.640625    0.641         0        0  64.0625  0.640625

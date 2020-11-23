@@ -1,0 +1,30 @@
+Sun Nov 15 14:09:01 CET 2020
+Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 428
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 171
+   Pool Size         : 100
+   Number of Trials  : 20000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.01)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 100
+-----------------------------

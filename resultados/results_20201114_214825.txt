@@ -1,0 +1,1041 @@
+Sat Nov 14 21:48:25 CET 2020
+Opening instancias/MANN_a9.clq.txt (45 nodes, 918 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 45
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 0 0 
+      1 0 0 1 1  (116)
+
+
+Best chrom:  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000     (fitness: 116)
+
+Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 4
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 1 1  (103)
+
+
+Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 103)
+
+Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 6
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 1 1 0 1 0 1  (104)
+
+
+Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 104)
+
+Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 8
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 1 1 0 1 1 1  (105)
+
+
+Best chrom:  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  1.0000     (fitness: 105)
+
+Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 
+      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 
+      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 
+      0 1 1 0  (132)
+
+
+Best chrom:  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 132)
+
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 1 0  (2)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 2)
+
+Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 28
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+      0 0 0 0 0 0 1 0  (104)
+
+
+Best chrom:  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 104)
+
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 
+      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 
+      0 0 0 1 0 0 1 0 0 0  (114)
+
+
+Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 114)
+
+Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 171
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 1 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 
+      1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0  (-37)
+
+
+Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: -37)
+
+Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 300
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 
+      0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 
+      0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0  (-520)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000     (fitness: -520)
+
+Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 300
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      1 0 1 0 1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 
+      1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 
+      0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0  (-306)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: -306)
+
+Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 820
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 500
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 
+      1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 
+      0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 1 0 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+      1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+      0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 
+      1 1 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 
+      0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+      1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+      0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 
+      0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1  (-2212)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000     (fitness: -2212)
+
+Cannot open file instancias/p_hat500-2.clq.clq.txt
+************************************
+------------------------------------
+************************************
+Opening instancias/MANN_a9.clq.txt (45 nodes, 918 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 45
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 1 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 
+      0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 
+      0 1 0 1 0  (116)
+
+
+Best chrom:  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000     (fitness: 116)
+
+Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 4
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 1 1  (103)
+
+
+Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 103)
+
+Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 6
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 1 1 0 1 0 1  (104)
+
+
+Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 104)
+
+Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 8
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 1 1 0 1 0 1 1 0  (105)
+
+
+Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 105)
+
+Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 
+      1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 
+      1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 
+      1 0 0 1  (132)
+
+
+Best chrom:  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000     (fitness: 132)
+
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0  (104)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 104)
+
+Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 28
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1  (104)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000     (fitness: 104)
+
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 
+      0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+      0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 
+      0 0 1 0 0 0 0 0 1 0  (114)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 114)
+
+Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 171
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 
+      1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 
+      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 0 0  (-35)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: -35)
+
+Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 300
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
+      0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 
+      1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+      0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 
+      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+      0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+      1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0  (-510)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: -510)
+
+Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 300
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
+      1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+      0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
+      1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+      1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0  (-272)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000     (fitness: -272)
+
+Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 821
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 500
+   Pool Size         : 500
+   Number of Trials  : 10000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0.3)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.1)
+   Mutation    : simple_invert (Rate = 0.75)
+   Replacement : append
+
+Reports
+   Type     : Minimal
+   Interval : 10
+-----------------------------
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 
+      0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 
+      1 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 
+      0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
+      0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 
+      1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 
+      0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 
+      0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+      1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 
+      0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+      1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+      0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0  (-2387)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: -2387)
+
+Cannot open file instancias/p_hat500-2.clq.clq.txt
+************************************
+------------------------------------
+************************************
