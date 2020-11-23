@@ -112,10 +112,8 @@ int obj_fun(Chrom_Ptr chrom)
   	Cl = 1;
   } 
 
-  if(A == 0)
-  	chrom->fitness = 0;
-  else
-  	chrom->fitness = 0.5 * (B/C + Cl*A/nnodes);
+
+ chrom->fitness = 0.5 * (B/C + Cl*A/nnodes);
   
   return 0;
   
