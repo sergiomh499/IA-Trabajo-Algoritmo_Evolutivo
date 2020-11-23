@@ -134,7 +134,7 @@ stop_after 100000 use_convergence
 # DEFAULT: ga generational
 #-----------------------------------------------------------------------------
 # ga generational              # most commonly used
- ga steady_state              # used by Genitor
+# ga steady_state              # used by Genitor
 
 #-----------------------------------------------------------------------------
 # Generation gap:
@@ -152,7 +152,7 @@ stop_after 100000 use_convergence
 #
 # DEFAULT: gap 0.0
 #-----------------------------------------------------------------------------
- gap 0.5
+# gap 0.5
 #-----------------------------------------------------------------------------
 # Selection method:
 #
@@ -164,8 +164,8 @@ stop_after 100000 use_convergence
 #
 # DEFAULT: selection roulette
 #-----------------------------------------------------------------------------
-# selection roulette           # use with generational GA
- selection rank_biased        # use with steady-state GA
+ selection roulette           # use with generational GA
+# selection rank_biased        # use with steady-state GA
 # selection uniform_random     # experimental
 
 #-----------------------------------------------------------------------------
@@ -220,7 +220,7 @@ crossover simple
 #
 # DEFAULT: x_rate 1.0
 #-----------------------------------------------------------------------------
-x_rate 0.025
+x_rate 0.5
 
 #-----------------------------------------------------------------------------
 # Mutation method:
@@ -253,7 +253,7 @@ x_rate 0.025
 #
 # DEFAULT: mu_rate 0.0
 #-----------------------------------------------------------------------------
-mu_rate 1.0
+mu_rate 0.5
 
 #-----------------------------------------------------------------------------
 # Replacement method:
@@ -267,10 +267,10 @@ mu_rate 1.0
 #
 # DEFAULT: replacement append
 #-----------------------------------------------------------------------------
-# replacement append           # use with roulette (generational GA)
+ replacement append           # use with roulette (generational GA)
 # replacement by_rank          # use with rank_biased (steady-state GA)
 # replacement first_weaker     # experimental
- replacement weakest          # experimental
+# replacement weakest          # experimental
 
 #-----------------------------------------------------------------------------
 # Objective of GA:
