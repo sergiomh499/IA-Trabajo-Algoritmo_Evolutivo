@@ -9,7 +9,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -19,7 +19,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -31,8 +31,8 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 0 0 
+Best: 0 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 1 0 0 0
+      0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 0 0
       1 0 0 1 1  (116)
 
 
@@ -48,7 +48,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -58,7 +58,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -85,7 +85,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -95,7 +95,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -122,7 +122,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -132,7 +132,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -159,7 +159,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -169,7 +169,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -181,9 +181,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 
-      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 
-      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 
+Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1
+      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1
       0 1 1 0  (132)
 
 
@@ -199,7 +199,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -209,7 +209,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -221,9 +221,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 1 0  (2)
 
 
@@ -239,7 +239,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -249,7 +249,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -261,7 +261,7 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 1 0  (104)
 
 
@@ -277,7 +277,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -287,7 +287,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -299,9 +299,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 
+Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0
       0 0 0 1 0 0 1 0 0 0  (114)
 
 
@@ -317,7 +317,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -327,7 +327,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -339,14 +339,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 
-      1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 
+Best: 1 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0
+      1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0
       0 0 0 0 0 0 0 0 0 0 0  (-37)
 
 
@@ -362,7 +362,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -372,7 +372,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -384,20 +384,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1 
-      0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 1
+      0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1
       0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0  (-520)
 
 
@@ -413,7 +413,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -423,7 +423,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -435,20 +435,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      1 0 1 0 1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 
-      1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1 
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      1 0 1 0 1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0
+      1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 1
       0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0  (-306)
 
 
@@ -464,7 +464,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 820
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -474,7 +474,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -486,30 +486,30 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 
-      1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 
-      0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 1 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
-      1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
-      0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 
-      1 1 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
-      0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 
+Best: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0
+      1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+      0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+      0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 1 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
+      1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+      0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0
+      1 1 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0
+      0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+      0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0
       0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1  (-2212)
 
 
@@ -529,7 +529,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -539,7 +539,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -551,8 +551,8 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 
+Best: 0 1 1 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1
+      0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0
       0 1 0 1 0  (116)
 
 
@@ -568,7 +568,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -578,7 +578,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -605,7 +605,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -615,7 +615,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -642,7 +642,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -652,7 +652,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -679,7 +679,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -689,7 +689,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -701,9 +701,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 
-      1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 
-      1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 
+Best: 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0
+      1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1
+      1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0
       1 0 0 1  (132)
 
 
@@ -719,7 +719,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -729,7 +729,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -741,9 +741,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
       0 0 0 0  (104)
 
 
@@ -759,7 +759,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -769,7 +769,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -781,7 +781,7 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
       0 0 0 0 0 0 0 1  (104)
 
 
@@ -797,7 +797,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -807,7 +807,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -819,9 +819,9 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
-      0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+      0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0
       0 0 1 0 0 0 0 0 1 0  (114)
 
 
@@ -837,7 +837,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -847,7 +847,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -859,14 +859,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 
-      1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 
-      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0
+      1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1
+      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
       0 0 0 0 0 0 0 0 0 0 0  (-35)
 
 
@@ -882,7 +882,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -892,7 +892,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -904,20 +904,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 
-      1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
-      0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Best: 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0
+      1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0
+      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+      0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
       1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0  (-510)
 
 
@@ -933,7 +933,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -943,7 +943,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -955,20 +955,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
-      1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
-      1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0
+      1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+      1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
       1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0  (-272)
 
 
@@ -984,7 +984,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 821
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 500
    Number of Trials  : 10000 iterations, or until convergence
@@ -994,7 +994,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0.3)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.1)
    Mutation    : simple_invert (Rate = 0.75)
    Replacement : append
@@ -1006,30 +1006,30 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 
-      0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 
-      1 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 
-      0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 
-      1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 
-      0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 
-      0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
-      1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+Best: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0
+      0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0
+      0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0
+      0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0
+      1 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+      0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+      1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0
+      0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0
+      0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+      1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1
       0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0  (-2387)
 
 

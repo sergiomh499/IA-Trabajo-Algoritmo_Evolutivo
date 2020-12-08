@@ -9,7 +9,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -19,7 +19,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -29,7 +29,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.445833  0.478571    0.463  2.75E-05  0.00524  92.6662  0.478571
     1  0.45098  0.478571    0.466  2.44E-05  0.00494  93.2355  0.478571
@@ -136,14 +136,14 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0 
-      0 0 0 1 0 1 1 0 0 0 1 1 0 1 0 0 0 1 1 0 
+Best: 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0
+      0 0 0 1 0 1 1 0 0 0 1 1 0 1 0 0 0 1 1 0
       0 1 1 0 0  (0.677778)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000     (fitness: 0.677778)
 
-------------------- ¡CLIQUE ENCONTRADO DE 16! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 16! :) -------------------
 
 Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
 
@@ -155,7 +155,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -165,7 +165,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -175,7 +175,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0        0    0.875     -NAN      -NAN     -NAN     -NAN    0.875
 New scale factor = 1
@@ -289,7 +289,7 @@ Best: 0 1 1 1  (0.875)
 
 Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 0.875)
 
-------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) -------------------
 
 Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
 
@@ -301,7 +301,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -311,7 +311,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -321,7 +321,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0        0  0.833333     -NAN      -NAN     -NAN     -NAN  0.833333
 New scale factor = 1
@@ -435,7 +435,7 @@ Best: 1 1 0 1 0 1  (0.833333)
 
 Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
 
@@ -447,7 +447,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -457,7 +457,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -467,7 +467,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0        0   0.8125     -NAN      -NAN     -NAN     -NAN   0.8125
 New scale factor = 1
@@ -581,7 +581,7 @@ Best: 1 1 0 1 0 1 1 0  (0.8125)
 
 Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.8125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) -------------------
 
 Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
 
@@ -593,7 +593,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -603,7 +603,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -613,7 +613,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.440217  0.461957    0.453  1.32E-05  0.00363  90.5115  0.461957
     1  0.445977  0.461957    0.454  1.03E-05  0.00322  90.8856  0.461957
@@ -720,15 +720,15 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 
-      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 
-      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 
+Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1
+      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1
       0 1 1 0  (0.75)
 
 
 Best chrom:  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.75)
 
-------------------- ¡CLIQUE ENCONTRADO DE 32! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 32! :) -------------------
 
 Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
 
@@ -740,7 +740,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -750,7 +750,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -760,7 +760,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.162338  0.193846    0.175  2.92E-05   0.0054  35.0588  0.193846
     1  0.168966  0.198333     0.18  2.56E-05  0.00506  35.9781  0.198333
@@ -867,15 +867,15 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 1 0  (0.53125)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.53125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
 
@@ -887,7 +887,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -897,7 +897,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -907,7 +907,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.188889  0.339286    0.279  0.000323    0.018  55.7397  0.339286
     1  0.25641  0.339286     0.29  0.000288    0.017  57.9873  0.339286
@@ -1014,13 +1014,13 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 
+Best: 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0
       0 0 0 0 0 0 1 0  (0.571429)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
 
@@ -1032,7 +1032,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1042,7 +1042,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1052,7 +1052,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.370968      0.4    0.384     2E-05  0.00447  76.8742      0.4
     1  0.378161      0.4    0.387  1.25E-05  0.00354  77.4403      0.4
@@ -1159,15 +1159,15 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 
-      0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 
+Best: 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1
+      0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+      0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1
       0 0 0 0 0 0 0 0 0 1  (0.6)
 
 
 Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
 Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
 
@@ -1179,7 +1179,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1189,7 +1189,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1199,7 +1199,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.308034  0.335873    0.325  1.34E-05  0.00366  64.9838  0.335873
     1  0.321001  0.335873    0.328  1.06E-05  0.00326  65.5094  0.335873
@@ -1306,20 +1306,20 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0  (0.526316)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.526316)
 
-------------------- ¡CLIQUE ENCONTRADO DE 9! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 9! :) -------------------
 
 Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
 
@@ -1331,7 +1331,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1341,7 +1341,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1351,7 +1351,7 @@ Reports
    Interval : 100
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.112401  0.133068    0.122  1.98E-05  0.00445   24.458  0.133068
     1  0.116585  0.133068    0.125  1.43E-05  0.00378  25.0176  0.133068
@@ -1458,26 +1458,26 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0  (0.511667)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.511667)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
 
@@ -1489,7 +1489,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1499,7 +1499,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1511,26 +1511,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
-      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0  (0.538333)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.538333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 23! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 23! :) -------------------
 
 Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
 
@@ -1542,7 +1542,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 400
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1552,7 +1552,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1564,36 +1564,36 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0  (0.508)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.508)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Cannot open file instancias/p_hat500-2.clq.clq.txt
 ************************************
@@ -1609,7 +1609,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1619,7 +1619,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1631,14 +1631,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 1 
-      1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 1 1 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 1
+      1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 1 0 1 1  (0.677778)
 
 
 Best chrom:  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  1.0000  1.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000     (fitness: 0.677778)
 
-------------------- ¡CLIQUE ENCONTRADO DE 16! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 16! :) -------------------
 
 Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
 
@@ -1650,7 +1650,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1660,7 +1660,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1677,7 +1677,7 @@ Best: 1 1 1 0  (0.875)
 
 Best chrom:  1.0000  1.0000  1.0000  0.0000     (fitness: 0.875)
 
-------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) -------------------
 
 Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
 
@@ -1689,7 +1689,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1699,7 +1699,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1716,7 +1716,7 @@ Best: 1 1 0 1 0 1  (0.833333)
 
 Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
 
@@ -1728,7 +1728,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1738,7 +1738,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1755,7 +1755,7 @@ Best: 1 0 1 1 0 1 1 0  (0.8125)
 
 Best chrom:  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.8125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) -------------------
 
 Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
 
@@ -1767,7 +1767,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1777,7 +1777,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1789,15 +1789,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 
-      1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 
-      0 1 1 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 
+Best: 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0
+      1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0
+      0 1 1 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1
       0 0 1 0  (0.65625)
 
 
 Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.65625)
 
-------------------- ¡CLIQUE ENCONTRADO DE 20! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 20! :) -------------------
 
 Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
 
@@ -1809,7 +1809,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1819,7 +1819,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1831,15 +1831,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0
       0 0 0 0  (0.53125)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
 
@@ -1851,7 +1851,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1861,7 +1861,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1873,13 +1873,13 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0
       0 0 0 0 0 0 1 0  (0.571429)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
 
@@ -1891,7 +1891,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1901,7 +1901,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1913,15 +1913,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 
-      0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 
-      0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 
+Best: 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0
+      0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0
+      0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0
       0 0 0 1 0 0 0 0 1 0  (0.6)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
 Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
 
@@ -1933,7 +1933,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1943,7 +1943,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -1955,20 +1955,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
       0 0 0 0 0 0 0 0 0 0 0  (0.523392)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.523392)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
 
@@ -1980,7 +1980,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -1990,7 +1990,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2002,26 +2002,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0  (0.511667)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.511667)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
 
@@ -2033,7 +2033,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2043,7 +2043,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2055,26 +2055,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 
+Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0  (0.536667)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.536667)
 
-------------------- ¡CLIQUE ENCONTRADO DE 22! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 22! :) -------------------
 
 Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
 
@@ -2086,7 +2086,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 401
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2096,7 +2096,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2108,36 +2108,36 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  (0.508)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.508)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Cannot open file instancias/p_hat500-2.clq.clq.txt
 ************************************
@@ -2153,7 +2153,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2163,7 +2163,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2175,14 +2175,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0 
-      0 1 1 0 0 1 1 0 0 1 0 0 1 0 1 0 0 0 0 0 
+Best: 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0
+      0 1 1 0 0 1 1 0 0 1 0 0 1 0 1 0 0 0 0 0
       0 0 1 0 1  (0.666667)
 
 
 Best chrom:  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.666667)
 
-------------------- ¡CLIQUE ENCONTRADO DE 15! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 15! :) -------------------
 
 Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
 
@@ -2194,7 +2194,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2204,7 +2204,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2221,7 +2221,7 @@ Best: 0 1 1 1  (0.875)
 
 Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 0.875)
 
-------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) -------------------
 
 Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
 
@@ -2233,7 +2233,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2243,7 +2243,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2260,7 +2260,7 @@ Best: 1 0 1 1 0 1  (0.833333)
 
 Best chrom:  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
 
@@ -2272,7 +2272,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2282,7 +2282,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2299,7 +2299,7 @@ Best: 0 0 1 1 0 1 1 1  (0.8125)
 
 Best chrom:  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  1.0000     (fitness: 0.8125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) -------------------
 
 Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
 
@@ -2311,7 +2311,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2321,7 +2321,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2333,15 +2333,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 
-      1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 
-      1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 
+Best: 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0
+      1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1
+      1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0
       1 0 0 1  (0.75)
 
 
 Best chrom:  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000     (fitness: 0.75)
 
-------------------- ¡CLIQUE ENCONTRADO DE 32! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 32! :) -------------------
 
 Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
 
@@ -2353,7 +2353,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2363,7 +2363,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2375,15 +2375,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0  (0.53125)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
 
@@ -2395,7 +2395,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2405,7 +2405,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2417,13 +2417,13 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 
+Best: 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0
       0 0 1 0 0 0 0 0  (0.571429)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
 
@@ -2435,7 +2435,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2445,7 +2445,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2457,15 +2457,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 
-      0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
+Best: 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0
+      0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0
+      0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0
       1 1 0 0 0 0 1 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
 Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
 
@@ -2477,7 +2477,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2487,7 +2487,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2499,20 +2499,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+Best: 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
       0 0 0 0 0 0 0 0 0 0 0  (0.526316)
 
 
 Best chrom:  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.526316)
 
-------------------- ¡CLIQUE ENCONTRADO DE 9! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 9! :) -------------------
 
 Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
 
@@ -2524,7 +2524,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2534,7 +2534,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2546,26 +2546,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  (0.513333)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.513333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
 
@@ -2577,7 +2577,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2587,7 +2587,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2599,26 +2599,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
-      0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+      0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0  (0.538333)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.538333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 23! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 23! :) -------------------
 
 Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
 
@@ -2630,7 +2630,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 402
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2640,7 +2640,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2652,36 +2652,36 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0  (0.508)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.508)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Cannot open file instancias/p_hat500-2.clq.clq.txt
 ************************************
@@ -2697,7 +2697,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2707,7 +2707,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2719,14 +2719,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1 
-      1 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 
+Best: 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1
+      1 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0
       0 0 0 1 1  (0.677778)
 
 
 Best chrom:  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000     (fitness: 0.677778)
 
-------------------- ¡CLIQUE ENCONTRADO DE 16! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 16! :) -------------------
 
 Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
 
@@ -2738,7 +2738,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2748,7 +2748,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2765,7 +2765,7 @@ Best: 0 1 1 1  (0.875)
 
 Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 0.875)
 
-------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) -------------------
 
 Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
 
@@ -2777,7 +2777,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2787,7 +2787,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2804,7 +2804,7 @@ Best: 1 1 0 1 0 1  (0.833333)
 
 Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
 
@@ -2816,7 +2816,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2826,7 +2826,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2843,7 +2843,7 @@ Best: 1 0 1 1 0 1 1 0  (0.8125)
 
 Best chrom:  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.8125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) -------------------
 
 Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
 
@@ -2855,7 +2855,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2865,7 +2865,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2877,15 +2877,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 
-      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 
-      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 
+Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1
+      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1
       0 1 1 0  (0.75)
 
 
 Best chrom:  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.75)
 
-------------------- ¡CLIQUE ENCONTRADO DE 32! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 32! :) -------------------
 
 Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
 
@@ -2897,7 +2897,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2907,7 +2907,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2919,15 +2919,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
       0 0 0 0  (0.53125)
 
 
 Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
 
@@ -2939,7 +2939,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2949,7 +2949,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -2961,13 +2961,13 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 
+Best: 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0
       0 0 1 0 0 0 0 0  (0.571429)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
 
@@ -2979,7 +2979,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -2989,7 +2989,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3001,15 +3001,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 
-      1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+Best: 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0
+      1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
       1 0 1 0 0 1 0 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
 Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
 
@@ -3021,7 +3021,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3031,7 +3031,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3043,20 +3043,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0  (0.523392)
 
 
 Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.523392)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
 
@@ -3068,7 +3068,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3078,7 +3078,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3090,26 +3090,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  (0.511667)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.511667)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
 
@@ -3121,7 +3121,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3131,7 +3131,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3143,26 +3143,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
-      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0  (0.54)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.54)
 
-------------------- ¡CLIQUE ENCONTRADO DE 24! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 24! :) -------------------
 
 Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
 
@@ -3174,7 +3174,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 403
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3184,7 +3184,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3196,36 +3196,36 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0  (0.507)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.507)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Cannot open file instancias/p_hat500-2.clq.clq.txt
 ************************************
@@ -3241,7 +3241,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 45
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3251,7 +3251,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3263,14 +3263,14 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 1 1 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 
-      0 0 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1 1 
+Best: 1 1 1 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0
+      0 0 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1 1
       0 0 0 0 0  (0.677778)
 
 
 Best chrom:  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.677778)
 
-------------------- ¡CLIQUE ENCONTRADO DE 16! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 16! :) -------------------
 
 Opening instancias/Toy4.clq.txt (4 nodes, 5 edges)
 
@@ -3282,7 +3282,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 4
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3292,7 +3292,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3309,7 +3309,7 @@ Best: 0 1 1 1  (0.875)
 
 Best chrom:  0.0000  1.0000  1.0000  1.0000     (fitness: 0.875)
 
-------------------- ¡CLIQUE ENCONTRADO DE 3! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 3! :) -------------------
 
 Opening instancias/Toy6.clq.txt (6 nodes, 11 edges)
 
@@ -3321,7 +3321,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 6
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3331,7 +3331,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3348,7 +3348,7 @@ Best: 1 1 0 1 0 1  (0.833333)
 
 Best chrom:  1.0000  1.0000  0.0000  1.0000  0.0000  1.0000     (fitness: 0.833333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/Toy8.clq.txt (8 nodes, 23 edges)
 
@@ -3360,7 +3360,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 8
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3370,7 +3370,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3387,7 +3387,7 @@ Best: 1 0 1 1 0 1 1 0  (0.8125)
 
 Best chrom:  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.8125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 5! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 5! :) -------------------
 
 Opening instancias/hamming6-2.clq.txt (64 nodes, 1824 edges)
 
@@ -3399,7 +3399,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3409,7 +3409,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3421,15 +3421,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 
-      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 
-      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 
+Best: 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1
+      0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+      0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1
       0 1 1 0  (0.75)
 
 
 Best chrom:  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000  1.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  1.0000  0.0000  1.0000  1.0000  0.0000     (fitness: 0.75)
 
-------------------- ¡CLIQUE ENCONTRADO DE 32! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 32! :) -------------------
 
 Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
 
@@ -3441,7 +3441,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 64
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3451,7 +3451,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3463,15 +3463,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
       0 0 0 0  (0.53125)
 
 
 Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-2-4.clq.txt (28 nodes, 210 edges)
 
@@ -3483,7 +3483,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 28
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3493,7 +3493,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3505,13 +3505,13 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 
+Best: 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0
       0 0 0 0 1 0 0 0  (0.571429)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) -------------------
 
 Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
 
@@ -3523,7 +3523,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3533,7 +3533,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3545,15 +3545,15 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 
-      0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 
-      0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+Best: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0
+      0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0
+      0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0
       0 0 1 0 0 0 0 0 1 0  (0.6)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
 Opening instancias/keller4.clq.txt (171 nodes, 9435 edges)
 
@@ -3565,7 +3565,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3575,7 +3575,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3587,20 +3587,20 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0  (0.520468)
 
 
 Best chrom:  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.520468)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Opening instancias/p_hat300-1.clq.txt (300 nodes, 10933 edges)
 
@@ -3612,7 +3612,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3622,7 +3622,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3634,26 +3634,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+      0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  (0.513333)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.513333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 8! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 8! :) -------------------
 
 Opening instancias/p_hat300-2.clq.txt (300 nodes, 21928 edges)
 
@@ -3665,7 +3665,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 300
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3675,7 +3675,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3687,26 +3687,26 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+Best: 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0  (0.538333)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.538333)
 
-------------------- ¡CLIQUE ENCONTRADO DE 23! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 23! :) -------------------
 
 Opening instancias/p_hat500-1.clq.txt (500 nodes, 31569 edges)
 
@@ -3718,7 +3718,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 404
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 500
    Pool Size         : 200
    Number of Trials  : 10000 iterations, or until convergence
@@ -3728,7 +3728,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -3740,36 +3740,36 @@ Reports
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
       0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0  (0.507)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.507)
 
-------------------- ¡CLIQUE ENCONTRADO DE 7! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 7! :) -------------------
 
 Cannot open file instancias/p_hat500-2.clq.clq.txt
 ************************************

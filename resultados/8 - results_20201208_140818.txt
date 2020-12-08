@@ -9,7 +9,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1114
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -19,7 +19,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -29,7 +29,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.370968  0.393145    0.384   1.8E-05  0.00424  46.1195  0.393145
     1  0.378543  0.393548    0.388   9.1E-06  0.00302  46.5013  0.393548
@@ -38,17 +38,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
-      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
-      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 
+Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0
+      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0
+      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0
       0 1 0 0 0 0 0 0 1 0  (0.6)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -63,7 +63,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1115
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -73,7 +73,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -83,7 +83,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.36413  0.393145    0.384  2.49E-05  0.00499  46.0996  0.393145
     1  0.378205  0.395161    0.387  1.18E-05  0.00343  46.3897  0.395161
@@ -92,17 +92,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 
-      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 
-      1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 
+Best: 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0
+      1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0
       0 0 0 0 1 1 0 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -117,7 +117,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1116
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -127,7 +127,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -137,7 +137,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.368371  0.394089    0.384  2.16E-05  0.00465  46.0891  0.394089
     1  0.376894  0.394089    0.386  9.85E-06  0.00314  46.3452  0.394089
@@ -146,17 +146,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
-      0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 
-      0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 
+Best: 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+      0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1
+      0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0
       0 0 0 0 1 0 1 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -171,7 +171,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1117
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -181,7 +181,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -191,7 +191,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.367944  0.396011    0.384  2.18E-05  0.00467  46.0996  0.396011
     1  0.375223  0.396011    0.387  1.22E-05   0.0035  46.4073  0.396011
@@ -200,17 +200,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 
-      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 
+Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0
       0 0 0 1 0 0 1 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -225,7 +225,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1118
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -235,7 +235,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -245,7 +245,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.37037  0.396552    0.384   2.1E-05  0.00459  46.0867  0.396552
     1  0.378151  0.396552    0.387  1.24E-05  0.00352  46.4076  0.396552
@@ -254,17 +254,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 
+Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1
       0 0 0 1 0 1 0 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -279,7 +279,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1119
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -289,7 +289,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -299,7 +299,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.366402  0.398148    0.383  2.33E-05  0.00483  45.9486  0.398148
     1  0.378151  0.398148    0.386  1.56E-05  0.00395  46.3016  0.398148
@@ -308,17 +308,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 
-      0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
-      0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 
+Best: 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0
+      0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0
+      0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0
       0 0 0 1 0 0 0 0 1 0  (0.6)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -333,7 +333,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1120
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -343,7 +343,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -353,7 +353,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.371264  0.399015    0.384  2.48E-05  0.00498  46.0934  0.399015
     1  0.378788  0.402116    0.387  2.04E-05  0.00451  46.4749  0.402116
@@ -362,17 +362,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 
-      0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 
-      0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 
+Best: 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0
+      0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+      0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1
       0 1 0 0 0 0 0 1 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -387,7 +387,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1121
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -397,7 +397,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -407,7 +407,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.371658  0.39418    0.385  1.89E-05  0.00434  46.1671  0.39418
     1  0.374384  0.395503    0.387   1.7E-05  0.00412  46.4294  0.395503
@@ -416,17 +416,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 
-      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
-      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
+Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0
+      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0
       0 1 0 0 0 0 0 0 1 0  (0.6)
 
 
 Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -441,7 +441,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1122
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -451,7 +451,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -461,7 +461,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.372043  0.392857    0.383   1.7E-05  0.00412  46.0191  0.392857
     1  0.376623  0.394089    0.387  1.17E-05  0.00341  46.4154  0.394089
@@ -470,17 +470,17 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 
-      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 
-      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 
+Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1
       0 0 0 1 0 1 0 0 0 0  (0.6)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
 
-------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) -------------------
 
-------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) -------------------
 
 ************************************
 ------------------------------------
@@ -495,7 +495,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 1123
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 70
    Pool Size         : 120
    Number of Trials  : 2000 iterations, or until convergence
@@ -505,7 +505,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.5)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
@@ -515,7 +515,7 @@ Reports
    Interval : 1000
 -----------------------------
 
-Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 -----  -------  -------  -------  --------  -------  -------  -------
     0  0.37563  0.395699    0.385  1.93E-05  0.00439  46.1499  0.395699
     1  0.379832  0.395699    0.388  1.16E-05   0.0034   46.508  0.395699
@@ -524,15 +524,15 @@ Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best
 
 The specified number of iterations has been reached.
 
-Best: 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
-      0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+Best: 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+      0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 1 0 1 0 0 0 0  (0.571429)
 
 
 Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.571429)
 
-------------------- ¡CLIQUE ENCONTRADO DE 10! :) ------------------- 
+------------------- ¡CLIQUE ENCONTRADO DE 10! :) -------------------
 
 ************************************
 ------------------------------------

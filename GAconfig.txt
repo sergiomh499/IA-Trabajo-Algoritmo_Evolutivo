@@ -46,7 +46,7 @@ datatype bit
 #
 # Usage: initpool [random | from_file filename | interactive]
 #
-#    random      = generate at random based on 
+#    random      = generate at random based on
 #                     datatype, chrom_len, & pool_size
 #    from_file   = read from a file
 #       filename = the name of the file to read from
@@ -116,7 +116,7 @@ stop_after 10000 use_convergence
 #
 # Usage: ga [generational | steady_state]
 #
-#    generational = generational GA 
+#    generational = generational GA
 #    steady_state = steady-state GA
 #
 # WARNING: This directive has the following side effects:
@@ -129,7 +129,7 @@ stop_after 10000 use_convergence
 #
 #       steady-state      selection        rank_biased
 #                         replacement      by_rank
-#                         rp_interval      100 
+#                         rp_interval      100
 #
 # DEFAULT: ga generational
 #-----------------------------------------------------------------------------
@@ -139,7 +139,7 @@ stop_after 10000 use_convergence
 #-----------------------------------------------------------------------------
 # Generation gap:
 #
-#    The generation gap  represents a percentage of the population to copy 
+#    The generation gap  represents a percentage of the population to copy
 #    (clone) to the new pool at each generation.  This only makes sense in
 #    a GA with two pools as in the generational model.  A gap of 0.0
 #    is the traditional generational algorithm.  As the gap increases,
@@ -193,7 +193,7 @@ stop_after 10000 use_convergence
 #    position  = order based
 #    cycle     = order based
 #    pmx       = order based
-#    uox       = uniform order 
+#    uox       = uniform order
 #    rox       = relative order
 #    asexual   = swap two alleles
 #
@@ -229,17 +229,17 @@ x_rate 1.0
 #
 #    simple_invert = invert a bit
 #    simple_random = random bit value
-#    swap          = swap two alleles 
+#    swap          = swap two alleles
 #
 # DEFAULT: mutation swap
 #-----------------------------------------------------------------------------
  mutation simple_invert      # use only with bits
 # mutation simple_random      # use only with bits
 # mutation swap               # use with any datatype
-# mutation float_random 
+# mutation float_random
 # mutation float_rnd_pert
 # mutation float_gauss_pert
-# mutation float_LS 
+# mutation float_LS
 
 # rnd float in [0..1] -- introduced by claudio 10/02/2004
 
@@ -289,9 +289,9 @@ mu_rate 1
 # Elitism
 #
 #    Elitism has two actions.  For a generational GA, elitism makes two copies
-#    of the best performer in the old pool and and places them in the new 
+#    of the best performer in the old pool and and places them in the new
 #    pool, thus ensuring the most fit chromosome survives.  The other action
-#    works with both models.  In this case, elitism picks the best two 
+#    works with both models.  In this case, elitism picks the best two
 #    chromosomes from the parents and children.  Thus, if a child is not as
 #    fit as either parent, it will not be placed in the new pool.  Selecting
 #    elitism in LibGA performs both actions.
@@ -299,7 +299,7 @@ mu_rate 1
 # Usage: elitism [true | false]
 #
 #    true  = ensure best members survive until next generation
-#    false = no guarantee best will survive 
+#    false = no guarantee best will survive
 #
 # DEFAULT: elitism true
 #-----------------------------------------------------------------------------
@@ -311,8 +311,8 @@ mu_rate 1
 #
 # Usage: rp_type [none | minimal | short | long]
 #
-#    none     = output nothing 
-#    minimal  = output configuration and final result 
+#    none     = output nothing
+#    minimal  = output configuration and final result
 #    short    = output minimal + statistics only
 #    long     = output short + dump pool
 #
@@ -330,7 +330,7 @@ mu_rate 1
 #
 #    number = interval between reports, a positive integer
 #
-# DEFAULT: rp_interval 1 
+# DEFAULT: rp_interval 1
 #-----------------------------------------------------------------------------
 rp_interval 1000
 

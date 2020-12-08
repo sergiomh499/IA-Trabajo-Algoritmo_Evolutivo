@@ -9,7 +9,7 @@ GA Configuration Information:
 Basic Info
    Random Seed       : 428
    Data Type         : Bit
-   Init Pool Entered : Randomly     
+   Init Pool Entered : Randomly
    Chromosome Length : 171
    Pool Size         : 100
    Number of Trials  : 20000 iterations, or until convergence
@@ -19,7 +19,7 @@ Basic Info
 
 Functions
    GA          : generational (Gap = 0)
-   Selection   : roulette 
+   Selection   : roulette
    Crossover   : simple (Rate = 0.01)
    Mutation    : simple_invert (Rate = 0.5)
    Replacement : append
