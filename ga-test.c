@@ -26,9 +26,8 @@ int main()
    GA_Info_Ptr ga_info;
    int i;
 
-   for(int k=1;k<15;k++)
-   {
-   //int k=9;
+ 	
+   	int k=9;
    	/*--- Initialize the genetic algorithm ---*/
    	ga_info = GA_config("GAconfig.txt", obj_fun);
 
@@ -64,8 +63,6 @@ int main()
    	printf("--------------------- ¡CLIQUE NO ENCONTRADO! :( -------------------- \n\n");
 
 	}
-
-}
 
 /*----------------------------------------------------------------------------
 | obj_fun() - user specified objective function
@@ -112,10 +109,9 @@ int obj_fun(Chrom_Ptr chrom)
   	Cl = 1;
   } 
 
- if C ==0
- 	chrom->fitness = 0;
- else
- 	chrom->fitness = 0.5 * (B/C + Cl*A/nnodes);
+
+ //chrom->fitness = 0.5 * (B/C + Cl*A/nnodes);
+ chrom->fitness = 0.5 * (B/C + Cl*A/nnodes);
   
   return 0;
   

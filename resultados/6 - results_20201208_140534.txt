@@ -1,0 +1,531 @@
+Tue Dec  8 14:05:34 CET 2020
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1042
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.157407  0.189655    0.174  3.46E-05  0.00588  17.4417  0.189655
+    1  0.168908  0.189655    0.178  1.67E-05  0.00408  17.8474  0.189655
+ 1000      0.3  0.53125    0.513   0.00259   0.0509  51.2844  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1043
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.155271  0.192029    0.175   4.4E-05  0.00663  17.4683  0.192029
+    1  0.166667  0.192029    0.179  2.72E-05  0.00522  17.8996  0.192029
+ 1000      0.3  0.53125    0.502   0.00393   0.0627  50.2469  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1044
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.153439  0.190883    0.173  3.87E-05  0.00622  17.3453  0.190883
+    1  0.166667  0.190883    0.177  2.28E-05  0.00477  17.6809  0.190883
+ 1000      0.3  0.53125    0.505   0.00344   0.0587  50.5437  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1045
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.162055  0.188948    0.175     3E-05  0.00547  17.4603  0.188948
+    1  0.165916  0.188948    0.178  2.49E-05  0.00499  17.8364  0.188948
+ 1000     0.35  0.53125    0.517     0.002   0.0448  51.7359  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+      0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1046
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.160428  0.187356    0.174  2.47E-05  0.00497   17.407  0.187356
+    1  0.167614  0.187356    0.177  1.22E-05   0.0035  17.6852  0.187356
+ 1000      0.3  0.53125    0.507   0.00345   0.0588  50.7318  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1047
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.154971  0.190476    0.175  3.92E-05  0.00626  17.4686  0.190476
+    1  0.167989  0.190476    0.178  1.93E-05  0.00439  17.7773  0.190476
+ 1000  0.333333  0.53125    0.509    0.0029   0.0539  50.8984  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1048
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.153226  0.186667    0.175  3.06E-05  0.00553  17.5013  0.186667
+    1  0.169748  0.186667    0.179  1.32E-05  0.00363  17.8889  0.186667
+ 1000  0.333333  0.53125     0.51   0.00283   0.0532  50.9896  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1049
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.155271  0.187831    0.174  3.57E-05  0.00598  17.3852  0.187831
+    1  0.170715  0.188406    0.178  1.96E-05  0.00443  17.8268  0.188406
+ 1000     0.35  0.53125    0.502   0.00384    0.062  50.1656  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1050
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.162162  0.195157    0.175  3.47E-05  0.00589  17.4914  0.195157
+    1  0.169892  0.195157    0.179  2.78E-05  0.00527  17.8722  0.195157
+ 1000      0.3  0.53125    0.509   0.00312   0.0558   50.947  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
+      0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/hamming6-4.clq.txt (64 nodes, 704 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1051
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 64
+   Pool Size         : 100
+   Number of Trials  : 1000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.160526  0.183333    0.175  1.77E-05   0.0042  17.5351  0.183333
+    1  0.172269  0.185383    0.178  8.77E-06  0.00296  17.7527  0.185383
+ 1000  0.333333  0.53125    0.503    0.0035   0.0592  50.2755  0.53125
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+      0 0 0 0  (0.53125)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.53125)
+
+------------------- ¡CLIQUE ENCONTRADO DE 4! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
