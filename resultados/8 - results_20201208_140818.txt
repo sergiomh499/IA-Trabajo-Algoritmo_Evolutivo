@@ -1,0 +1,539 @@
+Tue Dec  8 14:08:18 CET 2020
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1114
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.370968  0.393145    0.384   1.8E-05  0.00424  46.1195  0.393145
+    1  0.378543  0.393548    0.388   9.1E-06  0.00302  46.5013  0.393548
+ 1000  0.480952      0.6    0.589   0.00119   0.0345   70.669      0.6
+ 2000  0.478022      0.6    0.593  0.000783    0.028  71.1092      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
+      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 
+      0 1 0 0 0 0 0 0 1 0  (0.6)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1115
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.36413  0.393145    0.384  2.49E-05  0.00499  46.0996  0.393145
+    1  0.378205  0.395161    0.387  1.18E-05  0.00343  46.3897  0.395161
+ 1000  0.474359      0.6    0.586   0.00148   0.0384  70.2625      0.6
+ 2000  0.480952      0.6     0.59   0.00109   0.0329  70.7524      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 
+      0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 
+      1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 
+      0 0 0 0 1 1 0 0 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1116
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.368371  0.394089    0.384  2.16E-05  0.00465  46.0891  0.394089
+    1  0.376894  0.394089    0.386  9.85E-06  0.00314  46.3452  0.394089
+ 1000  0.480952      0.6    0.587   0.00137    0.037  70.4289      0.6
+ 2000  0.480952      0.6    0.588   0.00127   0.0357  70.5026      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+      0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 
+      0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 
+      0 0 0 0 1 0 1 0 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1117
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.367944  0.396011    0.384  2.18E-05  0.00467  46.0996  0.396011
+    1  0.375223  0.396011    0.387  1.22E-05   0.0035  46.4073  0.396011
+ 1000  0.480952      0.6    0.586   0.00146   0.0382  70.2762      0.6
+ 2000  0.480952      0.6    0.583   0.00172   0.0414  69.9313      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 
+      0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 
+      0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 
+      0 0 0 1 0 0 1 0 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1118
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.37037  0.396552    0.384   2.1E-05  0.00459  46.0867  0.396552
+    1  0.378151  0.396552    0.387  1.24E-05  0.00352  46.4076  0.396552
+ 1000   0.4625      0.6    0.581   0.00184   0.0429  69.7744      0.6
+ 2000  0.478022      0.6    0.588   0.00118   0.0344  70.5973      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 
+      0 0 0 1 0 1 0 0 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1119
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.366402  0.398148    0.383  2.33E-05  0.00483  45.9486  0.398148
+    1  0.378151  0.398148    0.386  1.56E-05  0.00395  46.3016  0.398148
+ 1000  0.480952      0.6    0.585   0.00155   0.0394  70.1429      0.6
+ 2000  0.480952      0.6     0.59   0.00109   0.0329  70.7524      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 
+      0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
+      0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 
+      0 0 0 1 0 0 0 0 1 0  (0.6)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1120
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.371264  0.399015    0.384  2.48E-05  0.00498  46.0934  0.399015
+    1  0.378788  0.402116    0.387  2.04E-05  0.00451  46.4749  0.402116
+ 1000  0.480952      0.6    0.589   0.00118   0.0343  70.6216      0.6
+ 2000  0.480952      0.6    0.587   0.00137    0.037  70.3907      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 
+      0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 
+      0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 
+      0 1 0 0 0 0 0 1 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1121
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.371658  0.39418    0.385  1.89E-05  0.00434  46.1671  0.39418
+    1  0.374384  0.395503    0.387   1.7E-05  0.00412  46.4294  0.395503
+ 1000  0.480952      0.6    0.591  0.000882   0.0297  70.9405      0.6
+ 2000  0.480952      0.6    0.588   0.00128   0.0357  70.5143      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 
+      0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 
+      0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 
+      0 1 0 0 0 0 0 0 1 0  (0.6)
+
+
+Best chrom:  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1122
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.372043  0.392857    0.383   1.7E-05  0.00412  46.0191  0.392857
+    1  0.376623  0.394089    0.387  1.17E-05  0.00341  46.4154  0.394089
+ 1000  0.480952      0.6    0.589   0.00108   0.0329  70.7024      0.6
+ 2000  0.480952      0.6     0.59  0.000984   0.0314    70.85      0.6
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 
+      0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 
+      0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 
+      0 0 0 1 0 1 0 0 0 0  (0.6)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.6)
+
+------------------- ¡CLIQUE ENCONTRADO DE 14! :) ------------------- 
+
+------------------- ¡Y ES EL MAXIMO CLIQUE! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
+Opening instancias/johnson8-4-4.clq.txt (70 nodes, 1855 edges)
+
+LibGA Version 1.00
+(c) Copyright Arthur L. Corcoran, 1992, 1993.  All rights reserved.
+
+GA Configuration Information:
+-----------------------------
+Basic Info
+   Random Seed       : 1123
+   Data Type         : Bit
+   Init Pool Entered : Randomly     
+   Chromosome Length : 70
+   Pool Size         : 120
+   Number of Trials  : 2000 iterations, or until convergence
+   Minimize          : No
+   Elitism           : Yes
+   Scale Factor      : 0
+
+Functions
+   GA          : generational (Gap = 0)
+   Selection   : roulette 
+   Crossover   : simple (Rate = 0.5)
+   Mutation    : simple_invert (Rate = 0.5)
+   Replacement : append
+
+Reports
+   Type     : Short
+   Interval : 1000
+-----------------------------
+
+Gener    Min      Max      Ave    Variance  Std Dev  Tot Fit    Best 
+-----  -------  -------  -------  --------  -------  -------  -------
+    0  0.37563  0.395699    0.385  1.93E-05  0.00439  46.1499  0.395699
+    1  0.379832  0.395699    0.388  1.16E-05   0.0034   46.508  0.395699
+ 1000  0.472727  0.571429    0.558   0.00106   0.0326  66.9201  0.571429
+ 2000  0.462121  0.571429    0.561  0.000884   0.0297  67.2894  0.571429
+
+The specified number of iterations has been reached.
+
+Best: 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 
+      0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+      0 0 0 1 0 1 0 0 0 0  (0.571429)
+
+
+Best chrom:  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  0.0000  1.0000  0.0000  0.0000  0.0000  0.0000     (fitness: 0.571429)
+
+------------------- ¡CLIQUE ENCONTRADO DE 10! :) ------------------- 
+
+************************************
+------------------------------------
+************************************
